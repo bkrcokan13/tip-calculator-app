@@ -33,7 +33,7 @@ Check out the live demo: [Tip Calculator Demo](#)
 
 Here is a screenshot of the Tip Calculator in action:
 
-![Tip Calculator Screenshot](screenshot.png)
+![Tip Calculator Screenshot](screenshot-1.png)
 
 ## Installation
 
