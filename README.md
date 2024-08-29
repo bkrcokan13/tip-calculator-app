@@ -6,6 +6,7 @@ A simple web application to calculate the tip amount and total bill per person. 
 - [Demo](#demo)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
+- [Screenshot](#screenshot)
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
@@ -27,6 +28,12 @@ Check out the live demo: [Tip Calculator Demo](#)
 - **HTML5**: For structuring the web page.
 - **CSS3**: For styling the application.
 - **JavaScript**: For functionality and DOM manipulation.
+  
+## Screenshot
+
+Here is a screenshot of the Tip Calculator in action:
+
+![Tip Calculator Screenshot](screenshot.png)
 
 ## Installation
 
@@ -54,4 +61,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Created by [Okan Bakırcı](https://github.com/yourusername) - feel free to contact me!
+Created by [Okan Bakırcı](https://github.com/bkrcokan13) - feel free to contact me!
